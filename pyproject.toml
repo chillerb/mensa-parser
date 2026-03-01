@@ -1,0 +1,10 @@
+[project]
+name = "stw-rw-menu-parser"
+version = "1.0.0"
+description = "Get today's menu!"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "beautifulsoup4>=4.14.3",
+    "requests>=2.32.5",
+]
