@@ -1,13 +1,15 @@
-# stw-rw-menu-parser
+# mensa-parser
 
 > Get today's menu!
+> 
+> **USE RESPONSIBLY!**
 
 ## Installation
 
 ```sh
 pip install -e .
 
-python main.py
+python -m mensa_parser
 ```
 
 ## Acknowledgements
